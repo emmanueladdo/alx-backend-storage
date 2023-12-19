@@ -1,0 +1,2 @@
+//A script that counts number of doc in collection school
+db.school.count()
