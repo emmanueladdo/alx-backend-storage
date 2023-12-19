@@ -1,4 +1,4 @@
 //A script that inserts a ducument in the collection school
 //doc attribute name with value Holbeton school
 //DB is mongo
-db.school.insert({name: "Holberton schoo"})
+db.school.insert({name: "Holberton school"})
